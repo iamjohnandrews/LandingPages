@@ -1,0 +1,139 @@
+***************
+Version 1.13
+***************
+
+CHANGE LOG
+=====================
+- New : Index-22 added
+- Added : Image lazy load option added
+- Other bug fixes and improvement in code
+
+
+***************
+Version 1.12
+***************
+
+CHANGE LOG
+=====================
+- New : Index-21 added
+- Added : Flexible option to apply other google fonts
+- Other bug fixes and improvement in code
+
+
+***************
+Version 1.11
+***************
+
+CHANGE LOG
+=====================
+- New : Index-20 added
+- Other bug fixes and improvement in code
+
+
+***************
+Version 1.10
+***************
+
+CHANGE LOG
+=====================
+- New : Index-19 added
+- Improved : Main and plug-in js file with better performance
+- Improved : Page loader for faster loading
+- Other bug fixes and improvement in code
+
+
+***************
+Version 1.09
+***************
+
+CHANGE LOG
+=====================
+- New : Index-18 added
+- Other bug fixes and improvement in code
+
+
+***************
+Version 1.08
+***************
+
+CHANGE LOG
+=====================
+- New : Index-17 added
+- Fixed : Design issue in tablet screens
+- Other bug fixes and improvement in code
+
+
+***************
+Version 1.07
+***************
+
+CHANGE LOG
+=====================
+- New : Index-16 added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.06
+***************
+
+CHANGE LOG
+=====================
+- New : Index-15 added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.05
+***************
+
+CHANGE LOG
+=====================
+- New : Index-14 added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.04
+***************
+
+CHANGE LOG
+=====================
+- New : Index-13 added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.03
+***************
+
+CHANGE LOG
+=====================
+- New : Index-12 added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.02
+***************
+
+CHANGE LOG
+=====================
+- New : Index-11 added
+- Other bug fixes and improvement in code
+
+
+
+***************
+Version 1.0
+***************
+
+CHANGE LOG
+=====================
+- Item release
+	
