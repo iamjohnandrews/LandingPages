@@ -90,18 +90,24 @@
 						= Form block
 						==================================-->
 						<!-- Form block -->
-						<div class="form-block bg-white pd-40 rd-5 mr-b-20" data-rgen-sm="pd-20">
-							<h2 class="title small mr-b-20">Customer Sign Up</h2>
-							<form action="form-data/formdata.php" class="form-widget" data-formtype="newsletter">
+						<div class="form-block bg-white pd-40 rd-5 mr-b-20" data-rgen-sm="pd-20">				
+                            <h2 class="title small mr-b-20">Customer Sign Up</h2>
+                        
+                          <!-- MailChimp hosted signup -->
+                        <form action="https://soothsayerlabs.us14.list-manage.com/subscribe/post" method="POST">
+						    <input type="hidden" name="u" value="21aa4221485a9c6b1b300317a">
+    						<input type="hidden" name="id" value="980029fc07">
+                         <!-- END: MailChimp hosted signup -->
+                         
 								<div class="field-wrp">
 									<div class="form-group">
-										<input class="form-control" data-label="Name" required data-msg="Please enter name." type="text" name="name" placeholder="Enter your name">
+										<input class="form-control" data-label="Email" required data-msg="Please enter email." type="email" name="MERGE0" placeholder="Enter your email" id="MERGE0">
 									</div>
 									<div class="form-group">
-										<input class="form-control" data-label="Email" required data-msg="Please enter email." type="email" name="email" placeholder="Enter your email">
+										<input class="form-control" data-label="Name" required data-msg="Please enter name." type="text" name="MERGE1" placeholder="Enter your full name" id="MERGE1">
 									</div>
                                     <div class="form-group">
-										<input class="form-control" data-label="Email" required data-msg="Please enter address." type="address" name="address" placeholder="Enter your address">
+										<input class="form-control" data-label="Email" required data-msg="Please enter address." type="address" name="MERGE2" placeholder="Enter your address" id="MERGE2">
 									</div>
 								</div>
 								<button type="submit" class="btn solid btn-color3 btn-block mr-b-10">SIGN UP</button>
